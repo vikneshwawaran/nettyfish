@@ -1,0 +1,27 @@
+{
+  "name": "netty-fish-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.2",
+    "@nextui-org/react": "^1.0.0-beta.12",
+    "bootstrap": "^5.2.3",
+    "eslint": "8.32.0",
+    "eslint-config-next": "13.1.2",
+    "next": "^13.1.2",
+    "next-compose-plugins": "^2.2.1",
+    "next-optimized-images": "^2.6.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-countup": "^6.4.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "reactstrap": "^9.1.5"
+  }
+}
