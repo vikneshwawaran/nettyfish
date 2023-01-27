@@ -1,6 +1,6 @@
 module.exports = {
   images: {
-    loader: 'akamai',
+    loader: 'myLoader',
     path: '',
   },
 }
