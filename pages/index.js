@@ -8,7 +8,7 @@ import Head from "next/head"
 import Image from 'next/image'
 
 const myLoader = ({ src, width, quality }) => {
-    return `http://localhost:3000/${src}?w=${width}&q=${quality || 100}`
+    return `https://github.com/vikneshwawaran/nettyfish/tree/main/public}`
 }
 const Home = () => {
     return (
